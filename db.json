@@ -1,0 +1,212 @@
+{
+  "ciudadanos": [
+    {
+      "id": "1",
+      "nombre": "Carlos",
+      "apellido": "Canelón",
+      "cedula": "V-26503216",
+      "tramite": "Nacimiento",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-01-25"
+    },
+    {
+      "id": "2",
+      "nombre": "Ana",
+      "apellido": "Rodríguez",
+      "cedula": "V-87654321",
+      "tramite": "Nacimiento",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-02-25"
+    },
+    {
+      "id": "3",
+      "nombre": "Luis",
+      "apellido": "Martínez",
+      "cedula": "V-11223344",
+      "tramite": "Defunción",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-03-02"
+    },
+    {
+      "id": "4",
+      "nombre": "Elena",
+      "apellido": "Gómez",
+      "cedula": "V-99887766",
+      "tramite": "Nacimiento",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-02-28"
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "apellido": "Pérez",
+      "cedula": "V-55443322",
+      "tramite": "Matrimonio",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-01-15"
+    },
+    {
+      "id": "6",
+      "nombre": "María",
+      "apellido": "Delgado",
+      "cedula": "V-66778899",
+      "tramite": "Matrimonio",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-03-03"
+    },
+    {
+      "id": "7",
+      "nombre": "José",
+      "apellido": "Gregorio",
+      "cedula": "V-22334455",
+      "tramite": "Nacimiento",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-02-10"
+    },
+    {
+      "id": "8",
+      "nombre": "Valentina",
+      "apellido": "López",
+      "cedula": "V-33445566",
+      "tramite": "Nacimiento",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-03-01"
+    },
+    {
+      "id": "9",
+      "nombre": "Andrés",
+      "apellido": "Eloy",
+      "cedula": "V-44556677",
+      "tramite": "Defunción",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-02-20"
+    },
+    {
+      "id": "10",
+      "nombre": "Sofía",
+      "apellido": "Castro",
+      "cedula": "V-77889900",
+      "tramite": "Matrimonio",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-03-04"
+    },
+    {
+      "id": "11",
+      "nombre": "Miguel",
+      "apellido": "Soler",
+      "cedula": "V-10203040",
+      "tramite": "Nacimiento",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-02-15"
+    },
+    {
+      "id": "12",
+      "nombre": "Lucía",
+      "apellido": "Méndez",
+      "cedula": "V-50607080",
+      "tramite": "Matrimonio",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-01-20"
+    },
+    {
+      "id": "13",
+      "nombre": "Fernando",
+      "apellido": "Ruiz",
+      "cedula": "V-13141516",
+      "tramite": "Defunción",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-03-02"
+    },
+    {
+      "id": "14",
+      "nombre": "Gabriela",
+      "apellido": "Paz",
+      "cedula": "V-17181920",
+      "tramite": "Nacimiento",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-02-05"
+    },
+    {
+      "id": "15",
+      "nombre": "Roberto",
+      "apellido": "Torres",
+      "cedula": "V-21222324",
+      "tramite": "Matrimonio",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-03-01"
+    },
+    {
+      "id": "16",
+      "nombre": "Isabel",
+      "apellido": "Díaz",
+      "cedula": "V-25262728",
+      "tramite": "Nacimiento",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-03-04"
+    },
+    {
+      "id": "17",
+      "nombre": "Ricardo",
+      "apellido": "Sanz",
+      "cedula": "V-29303132",
+      "tramite": "Defunción",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-02-12"
+    },
+    {
+      "id": "18",
+      "nombre": "Paola",
+      "apellido": "Vargas",
+      "cedula": "V-33343536",
+      "tramite": "Matrimonio",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-02-27"
+    },
+    {
+      "id": "19",
+      "nombre": "Daniel",
+      "apellido": "Blanco",
+      "cedula": "V-37383940",
+      "tramite": "Nacimiento",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-01-30"
+    },
+    {
+      "id": "20",
+      "nombre": "Carmen",
+      "apellido": "Ortiz",
+      "cedula": "V-41424344",
+      "tramite": "Matrimonio",
+      "estado": "Finalizado",
+      "fechaRegistro": "2026-03-03"
+    },
+    {
+      "id": "49da",
+      "nombre": "José",
+      "apellido": "Colmenarez",
+      "cedula": "V-6321426",
+      "tramite": "Nacimiento",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-03-11"
+    },
+    {
+      "id": "b38e",
+      "nombre": "Victoria",
+      "apellido": "Valentina",
+      "cedula": "V-28088999",
+      "tramite": "Nacimiento",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-03-13"
+    },
+    {
+      "id": "099f",
+      "nombre": "Elianny Alexandra",
+      "apellido": "Mendoza Silva",
+      "cedula": "V-12345678",
+      "tramite": "Nacimiento",
+      "estado": "Pendiente",
+      "fechaRegistro": "2026-03-13"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

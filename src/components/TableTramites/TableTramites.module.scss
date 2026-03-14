@@ -1,0 +1,79 @@
+@use "../../styles/variables" as *;
+
+.tableContainer {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  background: white;
+  margin-top: 20px;
+}
+
+.cTable {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+
+  .head {
+    background-color: #1a202c;
+    color: white;
+
+    .cell {
+      color: white !important;
+      text-align: left;
+      font-weight: 600;
+    }
+  }
+
+  .cell {
+    padding: 12px 20px;
+    border-bottom: 1px solid #edf2f7;
+    vertical-align: middle;
+    font-weight: 600;
+  }
+}
+
+.cSelect {
+  width: 100%;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #cbd5e0;
+  background-color: white !important;
+  color: #2d3748 !important;
+  font-size: 0.9rem;
+  cursor: pointer;
+  appearance: auto;
+
+  option {
+    background-color: white !important;
+    color: #1a202c !important;
+    padding: 10px;
+  }
+
+  &:disabled {
+    background-color: #f7fafc;
+    opacity: 0.6;
+  }
+}
+
+.statusBadge {
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 600;
+
+  &.pendiente {
+    background: #fff3cd;
+    color: #856404;
+  }
+
+  &.enproceso {
+    background: #cfe2ff;
+    color: #084298;
+  }
+
+  &.finalizado {
+    background: #d1e7dd;
+    color: #0f5132;
+  }
+}

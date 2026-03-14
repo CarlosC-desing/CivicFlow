@@ -1,0 +1,83 @@
+@use "../../styles/variables" as *;
+
+.tableContainer {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  background: white;
+  margin-top: 20px;
+}
+
+.cTable {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+
+  .head {
+    background-color: #1a202c;
+
+    .cell {
+      color: white !important;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      border-bottom: 2px solid #edf2f7;
+    }
+  }
+}
+
+.cell {
+  padding: 12px 20px;
+  text-align: left;
+  border-bottom: 1px solid #edf2f7;
+  vertical-align: middle;
+  font-weight: 600;
+  color: #4a5568;
+}
+
+.row {
+  transition: background-color 0.2s ease;
+
+  &:hover:not(.header) {
+    background-color: rgba($primary, 0.02);
+  }
+}
+
+.actions {
+  display: flex;
+  gap: 8px;
+}
+
+.cButton {
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 0.85rem;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: all 0.2s;
+
+  &.view {
+    background-color: rgba($primary, 0.1);
+    color: $primary;
+    &:hover {
+      background-color: $primary;
+      color: white;
+    }
+  }
+
+  &.delete {
+    background-color: #fff5f5;
+    color: #e53e3e;
+    &:hover {
+      background-color: #e53e3e;
+      color: white;
+    }
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+}
