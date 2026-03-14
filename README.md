@@ -96,11 +96,11 @@
 
 ## Capturas de pantalla
 
-| Vista | Descripción |
-|-------|-------------|
-| **Tablas** | *(Inserte aquí una captura de la tabla de ciudadanos o de trámites.)* |
-| **Modales** | *(Inserte aquí una captura de un modal de detalle o formulario.)* |
-| **Dashboard** | *(Inserte aquí una captura del dashboard con gráficos y métricas.)* |
+| Vista | Captura |
+|-------|---------|
+| **Tablas** | ![Tabla de trámites](public/tablas_tramites.png) |
+| **Modales** | ![Modal de detalle](public/modal.png) |
+| **Dashboard** | ![Dashboard](public/dashboard.png) |
 
 ---
 
